@@ -2,7 +2,7 @@
 just a bunch of skins you can use in your apps instead of your own catalog
 
 use crit launcher 
-[![Get Crit](https://img.shields.io/badge/Get-crit-red)](https://critlauncher.xyz)
+[![Get Crit](https://img.shields.io/badge/Get-crit%20%launcher-red)](https://critlauncher.xyz)
 ## HOW TO USE
 Get the skin index
 const folders = await fetch(
