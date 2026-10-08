@@ -13,7 +13,7 @@ This gives you the a, b, c, etc. folders.
 
 Get skins from a letter
 const skins = await fetch(
-  "https://api.github.com/repos/snigglaberry/critical-skin-api/contents/skin/g"
+  "https://api.github.com/repos/snigglaberry/critical-skin-api/contents/skin/t"
 ).then(r => r.json());
 Get the skin
 
@@ -23,4 +23,4 @@ const skinURL = skins[0].download_url;
 
 Or construct it yourself:
 
-https://raw.githubusercontent.com/snigglaberry/critical-skin-api/main/skin/g/Goku.png
+https://raw.githubusercontent.com/snigglaberry/critical-skin-api/main/skin/t/test skin.png
